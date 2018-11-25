@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+body{
+    background-color: #ffffff;
+    font-family: "Poiret One";
+    font-weight: 300;
+    font-size: 16px;
+    color: #000000;
+    margin-top: 70px;
+}
+
+h2, h3, h4, h5, h6{
+    font-family: "Poiret One";
+    font-weight: 300;
+    color: #ffffff;
+}
+
+h1{
+    font-family: "Poiret One";
+    font-weight: 400;
+    color: #000000;
+}
+
+p {
+    line-height: 28px;
+    margin-bottom: 25px;
+}
+
+.centered{
+    text-align: center;
+}
+
+ a{
+    font-family: "Poiret One";
+    color: #D9CDC1;
+}
+
+a:hover, a:focus {
+    color: #7b7b7b;
+    text-decoration: none;
+    outline: 0;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.navbar {
+    font-weight: 800;
+    font-size: 14px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navbar-inverse {
+    background: #2d2d2d;
+    border-color: #2d2d2d;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #999;
+    font-weight: bolder;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+#headerwrap {
+    background: url(nCglQyrlr98.jpg) no-repeat center top;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 500px;
+    width: 100%;
+    
+    background-size: 100%;
+}
+
+#headerwrap h1{
+    font-family:"Poiret One" ;
+    margin-top: 190px;
+    color: white;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+
+#headerwrap h2{
+    font-family: "Poiret One";
+}
+
+#about{
+    background-image: url(aboutbg.jpg);
+}
+
+.w {
+    padding-top: 0px;
+    
+  
+    
+}
+
+.w h4{
+    font-family: "Poiret One";
+    color: #5f5f5f;
+    font-size: 30px;
+}
+
+.w p{
+    font-family: "Poiret One";
+    color: #c1c0c0;
+}
+
+#dg {
+    background: #ffffff;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+
+#dg h4{
+    font-family: "Poiret One";
+    color: #373540;
+    font-size: 40px;
+}
+
+#dg h2 {
+    font-family: "Poiret One";
+    color:  #6D6773;
+    
+}
+
+#dg p{
+    font-family: "Poiret One";
+    color: #373540;
+    font-size: 20px;
+}
+
+
+
+
+#news{
+    background: url(newsbg.jpg);
+    height: 930px;
+}
+.wb {
+  
+    padding-top: 35px;
+    margin-bottom: 0;
+}
+
+.wb h1{
+    font-family: "Poiret One";
+    color: #000000;
+    font-size: 35px;
+}
+
+.wb p {
+    font-family: "Poiret One";
+    color: #ffffff;
+    font-size: 20px;
+}
+
+#lg {
+    background: url(bigface.jpg);
+    padding-top: 70px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+
+#lg h4{
+    font-size: 45px;
+}
+
+#r {
+    background: url(aboutbg.jpg);
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+#r h4 {
+    color: #414141;
+    font-size: 45px;
+}
+#r p{
+    color: #414141;
+    font-size: 25px;
+}
+
+#f {
+    background: #2d2d2d;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+
+
+
